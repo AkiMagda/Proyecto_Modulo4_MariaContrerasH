@@ -1,0 +1,2 @@
+ID: 1 | Nombre: Juan | Email: juan@gmail.com | Teléfono: 987654321 | Dirección: Calle 1 S/N | Tipo: Premium | Nivel: Gold | Descuento: 10%
+ID: 3 | Nombre: Luis | Email: luis@gmail.com | Teléfono: 987654323 | Dirección: calle 3 S/N | Tipo: Corporativo | Empresa: CCU | Límite de crédito: $10000000

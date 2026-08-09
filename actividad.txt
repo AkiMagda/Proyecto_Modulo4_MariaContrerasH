@@ -1,0 +1,16 @@
+Fecha: 09-08-2026 01:38:36 | Acción: Agregó cliente 1
+Fecha: 09-08-2026 01:38:36 | Acción: Agregó cliente 2
+Fecha: 09-08-2026 01:38:36 | Acción: Agregó cliente 3
+Fecha: 09-08-2026 01:38:36 | Acción: Editó cliente 1
+Fecha: 09-08-2026 01:38:36 | Acción: Editó cliente 2
+Fecha: 09-08-2026 01:38:36 | Acción: Eliminó cliente 1
+Fecha: 09-08-2026 01:38:36 | Acción: Generó clientes.txt
+Fecha: 09-08-2026 01:38:36 | Acción: Generó clientes.csv
+Fecha: 09-08-2026 01:40:41 | Acción: Agregó cliente 1
+Fecha: 09-08-2026 01:40:41 | Acción: Agregó cliente 2
+Fecha: 09-08-2026 01:40:41 | Acción: Agregó cliente 3
+Fecha: 09-08-2026 01:40:41 | Acción: Editó cliente 1
+Fecha: 09-08-2026 01:40:41 | Acción: Editó cliente 2
+Fecha: 09-08-2026 01:40:41 | Acción: Eliminó cliente 2
+Fecha: 09-08-2026 01:40:41 | Acción: Generó clientes.txt
+Fecha: 09-08-2026 01:40:41 | Acción: Generó clientes.csv
